@@ -1,0 +1,1 @@
+$array = "apple-banana", "orange-banana", "kiwi-banana", "pear-banana"
